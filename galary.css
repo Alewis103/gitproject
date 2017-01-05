@@ -1,0 +1,19 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  background-color: #CFD8DC;
+  margin:15px 50px;
+}
+.box{
+  width: 100%;
+}
+.pic{
+  width: 33%;
+  max-height: 300px;
+  min-height: 300px;
+}
+
+.mainHeading{
+  text-align: center;
+}
