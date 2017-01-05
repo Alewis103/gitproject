@@ -1,0 +1,24 @@
+a {
+   text-decoration: none;
+}
+
+a:hover {
+   text-decoration: underline;
+}
+
+h1 {
+   text-align: center;
+   color: red;
+}
+
+h1 {
+   line-height: 50px;
+   font-size: 50px;
+}
+
+body {
+   background-color: black;
+   color: blue;
+   font-size: 30px;
+   line-height: 30px;
+}
